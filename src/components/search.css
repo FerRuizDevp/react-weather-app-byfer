@@ -1,0 +1,65 @@
+.search-bar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 15px;
+  background: rgba(110, 110, 110, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  cursor: pointer;
+  z-index: 100;
+}
+
+.css-b62m3t-container {
+  width: 100% !important;
+}
+
+.css-yk16xz-control {
+  background: transparent !important; /* Makes input transparent */
+  border: 1px solid rgba(255, 255, 255, 0.5) !important; /* Light border */
+  color: white !important;
+}
+
+.css-1wa3eu0-placeholder {
+  color: rgba(255, 255, 255, 0.5) !important; /* Light text */
+}
+
+.css-26l3qy-menu {
+  background: rgba(
+    255,
+    255,
+    255,
+    0.7
+  ) !important; /* Dropdown menu transparency */
+  color: white !important;
+}
+
+.css-4ljt47-MenuList {
+  background: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-d7l1ni-option {
+  background: transparent !important;
+  color: white !important;
+}
+
+.css-d7l1ni-option:hover {
+  background: rgba(255, 255, 255, 0.2) !important; /* Subtle hover effect */
+}
+
+.search-bar input {
+  background: transparent;
+  border: none;
+  color: white !important;
+  font-size: 1rem;
+  outline: none;
+  width: 100%;
+}
+
+.search-bar input::placeholder {
+  color: white !important;
+}

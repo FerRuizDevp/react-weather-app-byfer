@@ -1,0 +1,73 @@
+.title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+.daily-item {
+  border-radius: 15px;
+  height: 40px;
+  margin: 5px;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  padding: 5px 20px;
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.weather-small-icon {
+  width: 40px;
+}
+
+.day {
+  color: #212121;
+  flex: 1 1;
+  font-weight: 600;
+  margin-left: 15px;
+}
+
+.description {
+  flex: 1 1;
+  margin-right: 15px;
+  text-align: right;
+}
+
+.min-max {
+  color: #212121;
+}
+
+.daily-details-grid {
+  display: grid;
+  grid-row-gap: 0;
+  grid-column-gap: 15px;
+  column-gap: 15px;
+  flex: 1 1;
+  grid-template-columns: auto auto;
+  padding: 5px 15px;
+  row-gap: 0;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.daily-details-grid-item {
+  display: flex;
+  height: 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.daily-details-grid-item label:first-child {
+  color: #757575;
+}
+
+.daily-details-grid-item label:last-child {
+  color: #212121;
+}
