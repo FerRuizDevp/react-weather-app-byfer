@@ -6,7 +6,7 @@
   "imagePreview": " ",
   "githubLink": "https://github.com/FerRuizDevp/react-weather-app-byfer",
   "netlifyLink": "https://react-weather-app-byfer.netlify.app/",
-  "tags": ["best-one", "react", "react-app", "vite-project", "dynamic-design" ]
+  "tags": ["best-one", "HTML", "CSS", "JavaScript", "React", "API", "Vite-project", "react-app", "dynamic-design"]
 }
 -->
 # ☁️ Weather App (Two-APIs)
