@@ -3,10 +3,9 @@
   "title": "Weather App (Two-APIs)",
   "description": "A weather application that retrieves data from two different APIs to provide accurate weather forecasts.",
   "video": "https://github.com/FerRuizDevp/react-weather-app-byfer/releases/download/v1.0-video/project-3.mp4",
-  "imagePreview": " ",
   "githubLink": "https://github.com/FerRuizDevp/react-weather-app-byfer",
   "netlifyLink": "https://react-weather-app-byfer.netlify.app/",
-  "tags": ["best-one", "HTML", "CSS", "JavaScript", "React", "API", "Vite-project", "react-app", "dynamic-design"]
+  "tags": ["all-projects", "best-one", "HTML", "CSS", "JavaScript", "React", "API", "Vite-project", "react-app", "dynamic-design"]
 }
 -->
 # ☁️ Weather App (Two-APIs)
